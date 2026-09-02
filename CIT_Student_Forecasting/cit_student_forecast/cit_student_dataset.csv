@@ -1,0 +1,12 @@
+academic_year,year,ug_approved_intake,tnea_round1_fill_rate,students_joining,data_type
+2015-16,2015,600,,572,actual
+2016-17,2016,600,,555,actual
+2017-18,2017,600,,562,actual
+2018-19,2018,600,,596,actual
+2019-20,2019,780,,758,actual
+2020-21,2020,840,,849,actual
+2021-22,2021,840,,837,actual
+2022-23,2022,1080,0.734,793,proxy_from_intake_and_fill_rate
+2023-24,2023,1440,0.8453,1217,proxy_from_intake_and_fill_rate
+2024-25,2024,2370,0.89,2109,proxy_from_intake_and_fill_rate
+2025-26,2025,2370,0.9672,2292,proxy_from_intake_and_fill_rate
